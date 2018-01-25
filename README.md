@@ -1,5 +1,5 @@
-"# esto es el readme" 
-"## titulillo"
+# esto es el readme"
+## titulillo
 
 este proyecto es para que me metas en tu empresa
 
